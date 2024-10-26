@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1729910710 source:c:\users\anyla\documents\progsgrafic\prueba\main.cpp
+	<windows.h>
+	<cstdlib>
+	<iostream>
+	<gl/glut.h>
+	<string.h>
+
+976692172 c:\users\anyla\documents\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1729913386 source:c:\users\anyla\documents\progsgrafic\figuras\main.cpp
+	<windows.h>
+	<cstdlib>
+	<iostream>
+	<gl/glut.h>
+	<string.h>
+
